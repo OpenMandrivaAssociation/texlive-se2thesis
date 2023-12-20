@@ -1,6 +1,6 @@
 Name:		texlive-se2thesis
-Version:	64970
-Release:	2
+Version:	68255
+Release:	1
 Summary:	A Thesis Class for the Chair of Software Engineering II at the University of Passau, Germany
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/se2thesis
