@@ -1,5 +1,5 @@
 Name:		texlive-se2thesis
-Version:	70117
+Version:	72025
 Release:	1
 Summary:	A Thesis Class for the Chair of Software Engineering II at the University of Passau, Germany
 Group:		Publishing
