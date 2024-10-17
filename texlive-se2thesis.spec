@@ -3,7 +3,7 @@ Version:	72025
 Release:	1
 Summary:	A Thesis Class for the Chair of Software Engineering II at the University of Passau, Germany
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/se2thesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/se2thesis
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/se2thesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/se2thesis.doc.r%{version}.tar.xz
